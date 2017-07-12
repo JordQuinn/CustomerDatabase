@@ -1,0 +1,18 @@
+h1, h2, h3{
+  text-align: center;
+}
+h1, h2, h3{
+  text-transform: uppercase;
+}
+p{
+  text-transform: capitalize;
+}
+
+img{
+  width:300px;
+
+  }
+  main{
+
+  }
+}
